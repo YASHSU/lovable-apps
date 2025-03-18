@@ -2,7 +2,8 @@
 Different apps build using prompt engineering, model cloning to demonstrate a workable solution for each product.
 
 #SIPxCAL:
-sipxcal.lovable.app
+
+https://sipxcal.lovable.app
 
 https://youtu.be/ShTbT_nLydU?si=DOiOrDT-KNA45Ppl
 
